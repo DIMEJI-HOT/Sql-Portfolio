@@ -155,8 +155,7 @@ The insights generated aim to support better decision-making in areas such as cr
 
 ## 🔗 Project Links
 
-🔗 GitHub Repository:
-[https://github.com/DIMEJI-HOT/motor-vehicle-theft-analysis](https:/DIMEJI-HOT/github.com//motor-vehicle-theft-analysis)
+🔗 GitHub Repository:👉 [View Motor Vehicle Theft Analysis Project](https://github.com/DIMEJI-HOT/Sql-Portfolio/tree/main/motor-vehicle-theft-analysis)
 
 ---
 
