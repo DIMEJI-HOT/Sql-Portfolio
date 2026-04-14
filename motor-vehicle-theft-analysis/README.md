@@ -165,11 +165,13 @@ The insights generated aim to support better decision-making in areas such as cr
 
 ## 📩 Support
 
-**Rotimi Precious Eniola**
+**Testimony Hakeem**
 Data Analyst | SQL Developer | BI Enthusiast
 
-📧 [rotimipreciousenny04@gmail.com](mailto:rotimipreciousenny04@gmail.com)
-🔗 LinkedIn: Rotimi Precious Eniola
+📧 Email: [testimonyoladimeji2007@gmail.com](mailto:testimonyoladimeji2007@gmail.com)
+🔗 LinkedIn: [www.linkedin.com/in/testimony-hakeem-31a04938b](http://www.linkedin.com/in/testimony-hakeem-31a04938b)
+
+---
 
 ---
 
