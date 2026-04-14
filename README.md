@@ -68,7 +68,8 @@ The analysis provides insights into:
 
 | 🚗 Project                   | 🔗 Project Link                                                               | 📊 Area of Analysis                                    | 🧾 Project Description                                                                                                                                                                                                                                                               |
 | ---------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Motor Vehicle Theft Analysis | [View Project](https://github.com/DIMEJI-HOT/motor-vehicle-theft-analysis) | Crime Data Analysis, Trend Analysis, Regional Insights | This project explores motor vehicle theft data to identify high-risk regions, most stolen vehicle types, and time-based trends. It uses SQL techniques such as joins, aggregations, filtering, subqueries, and window functions to generate actionable insights for decision-making. |
+| Motor Vehicle Theft Analysis | 🔗 **Motor Vehicle Theft Analysis (SQL Project)**  
+👉 https://github.com/DIMEJI-HOT/Sql-Portfolio/tree/main/motor-vehicle-theft-analysis | Crime Data Analysis, Trend Analysis, Regional Insights | This project explores motor vehicle theft data to identify high-risk regions, most stolen vehicle types, and time-based trends. It uses SQL techniques such as joins, aggregations, filtering, subqueries, and window functions to generate actionable insights for decision-making. |
 
 ---
 
