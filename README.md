@@ -1,4 +1,3 @@
-# Sql-Portfolio
 # 🚗 SQL Project Portfolio
 
 Welcome to my SQL Project Repository!
@@ -111,6 +110,7 @@ The analysis provides insights into:
 Data Analyst | SQL Developer | Tech Blogger
 
 📧 Email: [testimonyoladimeji2007@gmail.com](mailto:testimonyoladimeji2007@gmail.com)
+🔗 LinkedIn: [www.linkedin.com/in/testimony-hakeem-31a04938b](http://www.linkedin.com/in/testimony-hakeem-31a04938b)
 
 ---
 
